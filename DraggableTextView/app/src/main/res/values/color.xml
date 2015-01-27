@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="BlueTransparent">#cc2c3d4f</color>
+    <color name="DarkBlue">#2d3e51</color>
+    <color name="LightBlue">#32a1e1</color>
+    <color name="LightGreen">#2fc877</color>
+    <color name="DarkGray">#353334</color>
+    <color name="Yelllow">#ffd300</color>
+    <color name="Red">#c23a27</color>
+    <color name="DarkGreen">#2d927d</color>
+    <color name="White">#FFFFFF</color>
+    <color name="LightGray">#edf0f2</color>
+    <color name="TextGray">#bab4b4</color>
+    <color name="TransparentGrayBlue">#CC546270</color>
+    <color name="TransparentBlack25">#4D000000</color>
+</resources>
